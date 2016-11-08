@@ -21,6 +21,9 @@ Data Compilation
   ** Insight **
   
   
+    Each of the above contains specific data that has been checked for duplication. The details will be added to this document later then reconfirmed for accuracy. 
+  
+  
   
 
 
